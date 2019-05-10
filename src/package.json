@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "china-division": "2.0.0",
+    "moment": "2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "divisioncascader",
+  "description": ""
+}
